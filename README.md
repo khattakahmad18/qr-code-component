@@ -12,8 +12,8 @@ I built this project while learning HTML and CSS through The Odin Project and us
 
 ### Links
 
-- Solution URL: Add your GitHub repository URL here
-- Live Site URL: Add your GitHub Pages URL here
+- Solution URL: https://github.com/khattakahmad18/qr-code-component
+- Live Site URL:https://khattakahmad18.github.io/qr-code-component
 
 ## My Process
 
